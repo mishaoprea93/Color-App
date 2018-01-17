@@ -1,0 +1,10 @@
+.colors {
+    width: 72px;
+    height: 72px;
+    outline: 1px dotted black;
+    display: inline-block;
+}
+
+.main {
+    text-align: center;
+}
